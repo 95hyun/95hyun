@@ -1,10 +1,10 @@
 ### Hi there 👋
 ### 🌱 I’m currently learning
 
-<div align="center">
 ![header](https://capsule-render.vercel.app/api?type=${venom}&color=auto&height=${160}&section=header&text=${HelloWorld!%20!😈}&fontSize=${50}&animation=${twinkling})
 
-  
+<div align="center">
+
   ![1416894895547419af43511](https://github.com/95hyun/95hyun/assets/88784852/2b8a8396-3b16-42ab-abba-982c9b77f62c)
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=95hyun&show_icons=true&theme=vue) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=95hyun&layout=compact&theme=vue)
