@@ -1,4 +1,13 @@
 ### Hi there 👋
+### 🌱 I’m currently learning
+
+<div align="center">
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F95hyun&count_bg=%23AEF5A9&title_bg=%232CD953&icon=github.svg&icon_color=%23FFFFFE&title=hits&edge_flat=false)](https://github.com/95hyun)
+  
+  ![1416894895547419af43511](https://github.com/95hyun/95hyun/assets/88784852/2b8a8396-3b16-42ab-abba-982c9b77f62c)
+  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=95hyun&show_icons=true&theme=vue) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=95hyun&layout=compact&theme=vue)
+</div>
 
 <!--
 **95hyun/95hyun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
