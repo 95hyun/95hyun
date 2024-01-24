@@ -2,7 +2,8 @@
 ### 🌱 I’m currently learning
 
 <div align="center">
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F95hyun&count_bg=%23AEF5A9&title_bg=%232CD953&icon=github.svg&icon_color=%23FFFFFE&title=hits&edge_flat=false)](https://github.com/95hyun)
+![header](https://capsule-render.vercel.app/api?type=${venom}&color=auto&height=${160}&section=header&text=${HelloWorld!%20!😈}&fontSize=${50}&animation=${twinkling})
+
   
   ![1416894895547419af43511](https://github.com/95hyun/95hyun/assets/88784852/2b8a8396-3b16-42ab-abba-982c9b77f62c)
   
