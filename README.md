@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=160&section=header&text=Hello%20World!&fontSize=90&animation=twinkling)
 
 
-📚 Tech Stack & Things I'm studying 📚
+#### 📚 Tech Stack & Things I'm studying 📚
 
 <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white">  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/> <img src="https://img.shields.io/badge/amazonaws-232F3E?style=flat-square&logo=amazonaws&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> 
 
@@ -16,7 +16,7 @@
 
 ---
 
-📬 Contacts 📬
+#### 📬 Contacts 📬
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://helloresekai.tistory.com/)](https://helloresekai.tistory.com/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kingmandoo95@gmail.com)](mailto:kingmandoo95@gmail.com)
