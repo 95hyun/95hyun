@@ -4,7 +4,7 @@
 
 ---
 
-### 👇 The Tech Stacks I'm studying 👇
+### 👇 I'm studying these Tech 👇
 
 <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/gradle-02303A?style=flat-square&logo=gradle&logoColor=white"> <img src="https://img.shields.io/badge/intellijidea-000000?style=flat-square&logo=intellijidea&logoColor=white"> 
 
