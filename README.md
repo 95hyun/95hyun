@@ -24,7 +24,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=95hyun&layout=compact&theme=merko)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=95hyun&show_icons=true&theme=merko)
+<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=95hyun&show_icons=true&theme=merko)-->
 
 
 #### 📬 Contacts 📬
