@@ -12,6 +12,11 @@ Experience
 23.12 ~ 24.03 | 항해99 개발자코스 18기 - Spring 과정</br>
 24.06 ~ | 서비스 개발 회사 재직 중
 
+Certificate
+---
+정보처리기사 필기 (24.05.15) </br>
+SQLD (24.06.21)
+
 
 Currently in use
 ---
