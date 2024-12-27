@@ -9,7 +9,7 @@ Introduce
 Experience
 ---
 23.12 ~ 24.03 | 항해99 개발자코스 18기 - Spring 과정</br>
-24.06 ~ 24.09 | 서비스 개발 회사 계약직 근무
+24.06 ~ 24.09 | 서비스 개발 회사 계약직 근무</br>
 24-12 ~ 25.06 | LG CNS AM Inspire Camp 1기 (교육 중)
 
 Certificate
