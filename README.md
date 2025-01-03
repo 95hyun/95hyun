@@ -2,7 +2,7 @@
   
 ![digimon-glitch](https://github.com/user-attachments/assets/98081e20-a6d6-4d78-b003-40271e2abd4d)
 
-minyeong hyun
+**minyeong hyun**
 
 [![Tech Blog Badge](http://img.shields.io/badge/Blog-black?style=flat-square&logo=tistory&link=https://helloresekai.tistory.com/)](https://helloresekai.tistory.com/)
 </div>
