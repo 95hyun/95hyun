@@ -15,9 +15,12 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=venom&color=262577&height=140&section=header&text=minyeong%20hyun&fontColor=E2E2E2&fontSize=60&animation=twinkling) -->
 
 ```
+현민영 (minyeong hyun, 1995.5 ~)
+만드는 것을 사랑합니다
+
 Experience
 24-12 ~ 25.06 | LG CNS AM Inspire Camp 1기 (교육 중)
-24.06 ~ 24.09 | 서비스 개발 회사 계약직 근무 (풀스택 하이브리드앱 서비스 1인 개발)
+24.06 ~ 24.09 | 서비스 개발 회사 계약직 근무
 23.12 ~ 24.03 | 항해99 개발자코스 18기 - Spring 과정
 
 Certificate
