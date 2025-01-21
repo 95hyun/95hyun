@@ -5,6 +5,9 @@
 **minyeong hyun**
 
 [![Tech Blog Badge](http://img.shields.io/badge/Blog-black?style=flat-square&logo=tistory&link=https://helloresekai.tistory.com/)](https://helloresekai.tistory.com/)
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=kingmandoo95)](https://solved.ac/kingmandoo95)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F95hyun&count_bg=%23658C55&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=today&edge_flat=false)](https://hits.seeyoufarm.com)
 </div>
 
 ---
@@ -41,9 +44,15 @@ instagram @chillmyh
 > Experienced With </br>
 > <img src="https://img.shields.io/badge/ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"> <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white"/> <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white"/> <img src="https://img.shields.io/badge/SlackAPI-4A154B?style=flat-square&logo=slack&logoColor=white"/> </br> <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"> <img src="https://img.shields.io/badge/CentOs-262577?style=flat-square&logo=centos&logoColor=white"> <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white">
 >
-> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=95hyun&layout=compact) [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kingmandoo95)](https://solved.ac/kingmandoo95/)
+> 
+> <a href="https://github.com/95hyun/github-readme-stats">
+>  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=95hyun" />
+> </a>
+> <a href="https://github.com/95hyun/convoychat">
+>  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=95hyun&layout=compact&langs_count=8&card_width=320" />
+> </a>
 
-<!-- <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F95hyun&count_bg=%23729C52&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a> -->
+<!-- <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F95hyun&count_bg=%23729C52&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/> [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kingmandoo95)](https://solved.ac/kingmandoo95/)</a> -->
 
 <!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kingmandoo95)](https://solved.ac/kingmandoo95/)  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=95hyun&show_icons=true&theme=transparent) -->
 
