@@ -21,15 +21,17 @@ Experience
 23.12 ~ 24.03 | 항해99 개발자코스 18기 - Spring 과정
 
 Certificate
-SQLD (24.06.21)
-정보처리기사 필기 (24.05.15)
+24.06 | SQLD
+24.05 | 정보처리기사 필기
 
 Contact
 email kingmandoo95@gmail.com
 instagram @chillmyh
 ```
 
+
 <details>
+
   <summary>stack info</summary>
 
 > Core Skills </br>
