@@ -13,8 +13,7 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=venom&color=262577&height=140&section=header&text=minyeong%20hyun&fontColor=E2E2E2&fontSize=60&animation=twinkling) -->
 
 ```
-현민영 (minyeong hyun, 1995.5 ~)
-만드는 것을 사랑합니다
+현민영 (1995.5 ~) | 만드는 것을 사랑합니다
 
 Experience                                                              _____  _____  _  
 24-12 ~ 25.06 | LG CNS AM Inspire Camp 1기 (교육 중)                    |  _  ||  ___|| |  
@@ -26,8 +25,9 @@ Certificate                                                            \____/ \_
 24.05 | 정보처리기사 필기                                                                      |___/
                                                                                     9  5  h  y  u  n
 Contact
-email kingmandoo95@gmail.com
-instagram @chillmyh
+email kingmandoo95@gmail.com                                                           minyeong hyun
+instagram @chillmyh                                                                      developer
+blog helloresekai.tistory.com
 ```
 
 
