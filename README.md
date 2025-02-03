@@ -6,7 +6,7 @@
 [![Tech Blog Badge](http://img.shields.io/badge/Blog-black?style=flat-square&logo=tistory&link=https://helloresekai.tistory.com/)](https://helloresekai.tistory.com/)
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=kingmandoo95)](https://solved.ac/kingmandoo95)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F95hyun&count_bg=%23658C55&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=today&edge_flat=false)](https://hits.seeyoufarm.com) <a href="https://charm-manicure-495.notion.site/Read-Me-1705254cd71680d489c8f3bb315acbb9?pvs=73" target="_blank">
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F95hyun&count_bg=%23658C55&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=today&edge_flat=false)](https://hits.seeyoufarm.com) <a href="https://charm-manicure-495.notion.site/Read-Me-1705254cd71680d489c8f3bb315acbb9?pvs=73" target="_blank" title="포트폴리오">
   <img src="https://github.com/user-attachments/assets/840933f0-6268-4aff-b782-d475e8828280" width="32" height="32" alt="배경 제거 프로젝트" />
 </a>
 
