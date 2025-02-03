@@ -23,12 +23,6 @@ Experience
 24-12 ~ 25.06 | LG CNS AM Inspire Camp 1기 (교육 중)
 24.06 ~ 24.09 | 금새인터랙티브 - IT 서비스 개발 및 유지보수 3개월 계약직 근무
 23.12 ~ 24.03 | 항해99 Spring 백엔드 개발자 코스 18기 (수료)
-22.09 ~ 23.09 | SH오디오 - PA 크루원 근무
-20.06 ~ 24.09 | 프리랜서 작곡가/비트메이커 
-20.01 ~ 20.03 | 제일기업 - 현대오일뱅크 대산 정유공장 내 보온/도장/운전중 검사 관리직 인턴 근무
-14.03 ~ 21.02 | 순천향대 기계공학과 졸업
-11.07 ~ 14.02 | 한서고등학교
-11.02 ~ 11.07 | 동양고등학교
 
 Certificate
 24.06 | SQLD
@@ -67,7 +61,14 @@ blog helloresekai.tistory.com
 
 <!-- <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F95hyun&count_bg=%23729C52&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/> [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kingmandoo95)](https://solved.ac/kingmandoo95/)</a> -->
 
-<!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kingmandoo95)](https://solved.ac/kingmandoo95/)  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=95hyun&show_icons=true&theme=transparent) -->
+<!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kingmandoo95)](https://solved.ac/kingmandoo95/)  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=95hyun&show_icons=true&theme=transparent) 
+
+22.09 ~ 23.09 | SH오디오 - PA 크루원 근무
+20.06 ~ 24.09 | 프리랜서 작곡가/비트메이커 
+20.01 ~ 20.03 | 제일기업 - 현대오일뱅크 대산 정유공장 내 보온/도장/운전중 검사 관리직 인턴 근무
+14.03 ~ 21.02 | 순천향대 기계공학과 졸업
+11.07 ~ 14.02 | 한서고등학교
+11.02 ~ 11.07 | 동양고등학교-->
 
 
 
