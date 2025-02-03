@@ -21,9 +21,9 @@ _____  _____  _
 \____/ \____/ |_| |_| \__, | \__,_||_| |_|
                        __/ |
                        |___/
-               9  5  h  y  u  n
-                 minyeong hyun
-                    developer
+            9  5  h  y  u  n
+             minyeong hyun
+               developer
 
 현민영 (1995.5 ~) | 만드는 것을 사랑합니다
 
