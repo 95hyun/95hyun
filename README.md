@@ -20,17 +20,21 @@
 현민영 (1995.5 ~, developer) | 만드는 것을 사랑합니다
 
 Experience                                                                
-24-12 ~ 25.06 | LG CNS AM Inspire Camp 1기 (교육 중)                     
-24.06 ~ 24.09 | 서비스 개발 회사 계약직 근무                                   
-23.12 ~ 24.03 | 항해99 개발자코스 18기 - Spring 과정                     
-                                                                       
-Certificate                                                            
-24.06 | SQLD                                                                                               
-24.05 | 정보처리기사 필기                                                                         
-                                                                                    
+24-12 ~ 25.06 | LG CNS AM Inspire Camp 1기 (교육 중)
+24.06 ~ 24.09 | 금새인터랙티브 - IT 서비스 개발 및 유지보수 3개월 계약직 근무
+23.12 ~ 24.03 | 항해99 개발자코스 18기 - Spring 과정
+22.09 ~ 23.09 | SH오디오 - PA 크루원 근무
+20.06 ~ 24.09 | 프리랜서 작곡가 활동 
+20.01 ~ 20.03 | 제일기업 - 현대오일뱅크 대산 정유공장 내 보온/도장/운전중 검사 관리직 인턴 근무
+14.03 ~ 21.02 | 4년제 대학 기계공학과 졸업
+
+Certificate
+24.06 | SQLD
+24.05 | 정보처리기사 필기
+ 
 Contact
-email kingmandoo95@gmail.com                                                           
-instagram @chillmyh                                                                      
+email kingmandoo95@gmail.com / chillmyh@kakao.com
+instagram @chillmyh
 blog helloresekai.tistory.com
 ```
 
