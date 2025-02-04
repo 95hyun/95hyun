@@ -27,7 +27,7 @@ Certificate
 24.05 | 정보처리기사 필기
  
 Contact
-email kingmandoo95@gmail.com / chillmyh@kakao.com
+email chillmyh@kakao.com
 instagram @chillmyh
 blog helloresekai.tistory.com
 ```
