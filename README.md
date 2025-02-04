@@ -1,6 +1,10 @@
 <div align="center">
   
-![digimon-glitch](https://github.com/user-attachments/assets/98081e20-a6d6-4d78-b003-40271e2abd4d)
+
+READ ME 👉 <a href="https://charm-manicure-495.notion.site/Read-Me-1705254cd71680d489c8f3bb315acbb9?pvs=73" target="_blank" title="웹 포트폴리오(클릭)">
+  <img src="https://github.com/user-attachments/assets/840933f0-6268-4aff-b782-d475e8828280" width="32" height="32" alt="배경 제거 프로젝트" />
+</a>
+
 
 
 [![Tech Blog Badge](http://img.shields.io/badge/Blog-black?style=flat-square&logo=tistory&link=https://helloresekai.tistory.com/)](https://helloresekai.tistory.com/)
@@ -12,7 +16,9 @@
 
 
 
-<!-- ![header](https://capsule-render.vercel.app/api?type=venom&color=262577&height=140&section=header&text=minyeong%20hyun&fontColor=E2E2E2&fontSize=60&animation=twinkling) -->
+<!-- ![header](https://capsule-render.vercel.app/api?type=venom&color=262577&height=140&section=header&text=minyeong%20hyun&fontColor=E2E2E2&fontSize=60&animation=twinkling) 
+
+![digimon-glitch](https://github.com/user-attachments/assets/98081e20-a6d6-4d78-b003-40271e2abd4d) -->
 
 ```
 현민영 (1995.5 ~, developer) | 만드는 것을 사랑합니다
@@ -32,11 +38,7 @@ instagram @chillmyh
 blog helloresekai.tistory.com
 ```
 
-<div align="center">
-READ ME -> <a href="https://charm-manicure-495.notion.site/Read-Me-1705254cd71680d489c8f3bb315acbb9?pvs=73" target="_blank" title="웹 포트폴리오(클릭)">
-  <img src="https://github.com/user-attachments/assets/840933f0-6268-4aff-b782-d475e8828280" width="32" height="32" alt="배경 제거 프로젝트" />
-</a>
-</div>
+
 
 <!--
 <details>
