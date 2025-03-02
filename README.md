@@ -21,11 +21,11 @@ READ ME 👉 <a href="https://charm-manicure-495.notion.site/Read-Me-1705254cd71
 ![digimon-glitch](https://github.com/user-attachments/assets/98081e20-a6d6-4d78-b003-40271e2abd4d) -->
 
 ```
-현민영 (1995.5 ~, developer) | 만드는 것을 사랑합니다
+현민영 (만 29, developer) | 만드는 것을 사랑합니다
 
 Experience                                                                
 24-12 ~ 25.06 | LG CNS AM Inspire Camp 1기 (교육 중)
-24.06 ~ 24.09 | IT 서비스 개발 및 유지보수 3개월 계약직 근무
+24.06 ~ 24.09 | IT 서비스 개발 및 유지보수 계약직 근무
 23.12 ~ 24.03 | 항해99 Spring 백엔드 개발자 코스 18기 (수료)
 
 Certificate
