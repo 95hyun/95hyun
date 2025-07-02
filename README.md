@@ -30,9 +30,11 @@ Experience
 24.06 ~ 24.09 | IT 서비스 개발 및 유지보수 아르바이트 근무
 23.12 ~ 24.03 | 항해99 Spring 백엔드 개발자 코스 18기 (수료)
 
-Certificate
+Awards & Certificate
+24.03 | 항해99 18기 최종프로젝트 서비스 부문 1등 <최고의 인기 프로젝트 상>
 24.06 | SQLD
 24.05 | 정보처리기사 필기
+25.06 | LG CNS AM INSPIRE CAMP 1기 최종프로젝트 우수상
  
 Contact
 email chillmyh@kakao.com
