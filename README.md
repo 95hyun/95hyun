@@ -34,7 +34,7 @@ Experience
 
 Awards & Certificate
 24.03 | 항해99 18기 최종프로젝트 서비스 부문 1등 <최고의 인기 프로젝트 상>
-24.06 | SQLD
+24.06 | SQL 개발자 (SQLD)
 24.05 | 정보처리기사 필기
 25.06 | LG CNS AM INSPIRE CAMP 1기 최종프로젝트 우수상
  
