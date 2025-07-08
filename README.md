@@ -8,7 +8,7 @@ READ ME 👉 <a href="https://charm-manicure-495.notion.site/Read-Me-1705254cd71
 [![Tech Blog Badge](http://img.shields.io/badge/Blog-orange?style=flat-square&logo=tistory&link=https://helloresekai.tistory.com/)](https://helloresekai.tistory.com/)
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=kingmandoo95)](https://solved.ac/kingmandoo95)
-[![Hits](https://hitmeup-backend-593087166771.asia-northeast1.run.app/api/count/increment?url=https%3A%2F%2Fgithub.com%2F95hyun&title=hits&title_bg=555555&count_bg=65d791&edge_flat=false)](https://hitmeup-backend-593087166771.asia-northeast1.run.app)
+[![Hits](https://hits.sh/github.com/95hyun.svg?view=today-total&style=flat-square&color=e05d44&logo=apple)](https://hits.sh/github.com/95hyun/)
 <a href="https://www.16personalities.com/ko/성격유형-entp" target="_blank" title="MBTI(클릭)">
   <img src="https://github.com/user-attachments/assets/c9c82458-f931-4c2f-8424-09969116a92d" width="32" height="32" alt="배경 제거 프로젝트" />
 </a>
