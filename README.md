@@ -33,7 +33,7 @@ Experience
 23.12 ~ 24.03 | 항해99 Spring 백엔드 개발자 코스 18기 (수료)
 
 Awards & Certificate
-25.06 | LG CNS AM INSPIRE CAMP 1기 최종프로젝트 우수상
+25.06 | LG CNS AM INSPIRE CAMP 1기 최종프로젝트 우수상 - 금융 서비스 및 장애 대응 관제 시스템 구현
 24.06 | SQL 개발자 (SQLD)
 24.05 | 정보처리기사 필기
 24.03 | 항해99 18기 최종프로젝트 서비스 부문 1등 <최고의 인기 프로젝트 상>
