@@ -29,7 +29,7 @@ READ ME 👉 <a href="https://charm-manicure-495.notion.site/Read-Me-1705254cd71
 
 Experience                                                                
 24-12 ~ 25.06 | LG CNS AM Inspire Camp 1기 (수료)
-24.06 ~ 24.09 | IT 서비스 개발 및 유지보수 아르바이트 근무
+24.06 ~ 24.09 | IT 서비스 개발 및 유지보수 근무
 23.12 ~ 24.03 | 항해99 Spring 백엔드 개발자 코스 18기 (수료)
 
 Awards & Certificate
