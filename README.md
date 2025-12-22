@@ -25,12 +25,12 @@ READ ME 👉 <a href="https://charm-manicure-495.notion.site/Read-Me-1705254cd71
 
 ```
 현민영 (developer)
-'비용', '범위', '시간' 간의 밸런스를 고민하여 '문제 해결'하는 좋은 개발자를 위해 꾸준히 노력합니다.
+product를 만드는 개발자가 되기 위한 여정 중입니다
 
 Experience
-25.10 ~ | Ringle English Education Service                                                                 
+25.10 ~ | Ringle fullstack developer                                                                 
 24-12 ~ 25.06 | LG CNS AM Inspire Camp 1기 (수료)
-24.06 ~ 24.09 | IT 서비스 개발 및 유지보수 근무
+24.06 ~ 24.09 | IT 서비스 개발 및 유지보수 계약직
 23.12 ~ 24.03 | 항해99 Spring 백엔드 개발자 코스 18기 (수료)
 
 Awards & Certificate
