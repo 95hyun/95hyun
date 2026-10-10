@@ -6,8 +6,6 @@ READ ME 👉 <a href="https://charm-manicure-495.notion.site/Read-Me-1705254cd71
 </a>
 
 [![Tech Blog Badge](http://img.shields.io/badge/Blog-orange?style=flat-square&logo=tistory&link=https://helloresekai.tistory.com/)](https://helloresekai.tistory.com/)
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=kingmandoo95)](https://solved.ac/kingmandoo95)
 [![Hits](https://hits.sh/github.com/95hyun.svg?view=today-total&style=flat-square&color=e05d44&logo=apple)](https://hits.sh/github.com/95hyun/)
 <a href="https://www.16personalities.com/ko/성격유형-entp" target="_blank" title="MBTI(클릭)">
   <img src="https://github.com/user-attachments/assets/c9c82458-f931-4c2f-8424-09969116a92d" width="32" height="32" alt="배경 제거 프로젝트" />
@@ -25,10 +23,12 @@ READ ME 👉 <a href="https://charm-manicure-495.notion.site/Read-Me-1705254cd71
 
 ```
 현민영 (developer)
-product를 만드는 개발자가 되기 위한 여정 중입니다
+제품 개발 라이프사이클에 E2E로 기여하며 데이터 분석을 통해 성과를 트래킹하는 경험을 쌓고 있습니다.
+개발을 넘어 유저 입장에서 서비스를 고민하고 비즈니스의 임팩트를 만들어내는 것을 지향합니다.
+최신 기술 트렌드와 깊이 있는 기술적 이슈에 관심이 많습니다.
 
 Experience
-25.10 ~ | Ringle fullstack developer                                                                 
+25.10 ~ | [Ringle] Product engineer                                                            
 24-12 ~ 25.06 | LG CNS AM Inspire Camp 1기 (수료)
 24.06 ~ 24.09 | IT 서비스 개발 및 유지보수 계약직
 23.12 ~ 24.03 | 항해99 Spring 백엔드 개발자 코스 18기 (수료)
@@ -43,7 +43,6 @@ Awards & Certificate
 Contact
 email chillmyh@kakao.com
 instagram @chillmyh
-blog helloresekai.tistory.com
 ```
 
 
